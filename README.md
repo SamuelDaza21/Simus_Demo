@@ -15,9 +15,9 @@ tutorial, menú principal, pantalla de inicio, configuración y **5 juegos**.
 
 ## 🎬 Mira el trailer
 
-**Vista previa animada** (se reproduce sola):
+Haz clic en la imagen para ver el trailer **completo, de inicio a fin y con sonido** (se abre en YouTube):
 
-![Vista previa del trailer](trailer_preview.gif)
+[![▶ Ver trailer completo en YouTube](https://img.youtube.com/vi/qKUh0oAfOrM/maxresdefault.jpg)](https://youtu.be/qKUh0oAfOrM)
 
 ---
 
