@@ -19,10 +19,6 @@ tutorial, menú principal, pantalla de inicio, configuración y **5 juegos**.
 
 ![Vista previa del trailer](trailer_preview.gif)
 
-**Trailer completo** — haz clic en la imagen y se reproduce directamente en el visor de GitHub (no se descarga nada):
-
-[![▶ Ver trailer completo](trailer_poster.png)](Trailer_Simus.mp4)
-
 ---
 
 ## 🚀 Guía paso a paso para instalarlo (5 minutos)
