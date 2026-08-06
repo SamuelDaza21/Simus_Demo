@@ -1,0 +1,105 @@
+[
+    {
+        "pregunta": "¿Cuánto es 2+2?",
+        "respuestas": ["1", "8", "4", "5"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "El número que va luego del 10 es?",
+        "respuestas": ["15", "12", "9", "11"],
+        "correcto": "11"
+    },
+    {
+        "pregunta": "Si tienes 5 manzanas y te quitan 3 ¿Cuántas te quedan?",
+        "respuestas": ["2", "7", "4", "3"],
+        "correcto": "2"
+    },
+    {
+        "pregunta": "Cuenta de dos en dos: 2, 4, 6, ...?",
+        "respuestas": ["10", "8", "7", "9"],
+        "correcto": "8"
+    },
+    {
+        "pregunta": "¿Cuál número hace falta? 10, 11, __, 13, 14",
+        "respuestas": ["15", "9", "12", "13"],
+        "correcto": "12"
+    },
+    {
+        "pregunta": "¿Qué figura tiene 3 lados?",
+        "respuestas": ["Rectángulo", "Triángulo", "Círculo", "Cuadrado"],
+        "correcto": "Triángulo"
+    },
+    {
+        "pregunta": "¿Un balón de fútbol tiene forma de...?",
+        "respuestas": ["Círculo", "Triángulo", "Cuadrado", "Rectángulo"],
+        "correcto": "Círculo"
+    },
+    {
+        "pregunta": "Si un triángulo tiene 3 lados, ¿cuántos lados tiene un rectángulo?",
+        "respuestas": ["5", "2", "6", "4"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "¿Qué figura tiene más lados?",
+        "respuestas": ["Pentágono", "Heptágono", "Hexágono", "Polígono"],
+        "correcto": "Heptágono"
+    },
+    {
+        "pregunta": "Completa la secuencia:",
+        "secuencia": ["assets/imagenes/Mate-Reto/circulo_azul.png", "assets/imagenes/Mate-Reto/circulo_verde.png", "assets/imagenes/Mate-Reto/circulo_azul.png", "___"],
+        "respuestas": ["assets/imagenes/Mate-Reto/circulo_laberinto.png", "assets/imagenes/Mate-Reto/circulo_azul.png", "assets/imagenes/Mate-Reto/circulo_verde.png", "assets/imagenes/Mate-Reto/circulo_amarillo.png"],
+        "correcto": "assets/imagenes/Mate-Reto/circulo_verde.png"
+    },
+    {
+        "pregunta": "¿Qué número falta? 1, 3, 5, __, 9",
+        "respuestas": ["6", "7", "10", "4"],
+        "correcto": "7"
+    },
+    {
+        "pregunta": "Cuenta de 10 en 10: 10, 20, 30, ...",
+        "respuestas": ["40", "60", "80", "50"],
+        "correcto": "40"
+    },
+    {
+        "pregunta": "Completa la secuencia:",
+        "secuencia": ["assets/imagenes/Mate-Reto/apunta_derecha.png", "assets/imagenes/Mate-Reto/apunta_abajo.png", "assets/imagenes/Mate-Reto/apunta_izquierda.png", "assets/imagenes/Mate-Reto/apunta_arriba.png", "assets/imagenes/Mate-Reto/apunta_derecha.png", "___"],
+        "respuestas": ["assets/imagenes/Mate-Reto/apunta_izquierda.png", "assets/imagenes/Mate-Reto/apunta_arriba.png", "assets/imagenes/Mate-Reto/apunta_abajo.png", "assets/imagenes/Mate-Reto/apunta_derecha.png"],
+        "correcto": "assets/imagenes/Mate-Reto/apunta_abajo.png"
+    },
+    {
+        "pregunta": "El patrón va de la siguiente manera:",
+        "secuencia": ["assets/imagenes/Mate-Reto/animal_leon.png", "assets/imagenes/Mate-Reto/animal_mono.png", "assets/imagenes/Mate-Reto/animal_pez.png", "assets/imagenes/Mate-Reto/animal_pinguino.png", "assets/imagenes/Mate-Reto/animal_leon.png", "¿Qué sigue?"],
+        "respuestas": ["assets/imagenes/Mate-Reto/animal_pez.png", "assets/imagenes/Mate-Reto/animal_leon.png", "assets/imagenes/Mate-Reto/animal_pinguino.png", "assets/imagenes/Mate-Reto/animal_mono.png"],
+        "correcto": "assets/imagenes/Mate-Reto/animal_mono.png"
+    },
+    {
+        "pregunta": "¿Cuál es el orden? A, B, C, D, E, ...",
+        "respuestas": ["L", "H", "F", "I"],
+        "correcto": "F"
+    },
+    {
+        "pregunta": "Si tienes 6 dulces y te comes 2 ¿Cuántos quedan?",
+        "respuestas": ["4", "6", "2", "5"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "Pablo tiene 5 monedas y Sofía tiene 3 ¿Quién tiene más monedas?",
+        "respuestas": ["Ninguno", "Los dos tienen igual", "Sofía", "Pablo"],
+        "correcto": "Pablo"
+    },
+    {
+        "pregunta": "Si hoy es miércoles ¿Qué día será mañana?",
+        "respuestas": ["Sábado", "Jueves", "Viernes", "Lunes"],
+        "correcto": "Jueves"
+    },
+    {
+        "pregunta": "Si un gato tiene cuatro patas ¿Cuántas tienen 2 gatos?",
+        "respuestas": ["6", "2", "8", "12"],
+        "correcto": "8"
+    },
+    {
+        "pregunta": "¿Cuánto es 15-10?",
+        "respuestas": ["12", "7", "3", "5"],
+        "correcto": "5"
+    }
+]

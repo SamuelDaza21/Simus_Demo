@@ -1,0 +1,105 @@
+[
+    {
+        "pregunta": "What is 2+2?",
+        "respuestas": ["1", "8", "4", "5"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "What number comes after 10?",
+        "respuestas": ["15", "12", "9", "11"],
+        "correcto": "11"
+    },
+    {
+        "pregunta": "If you have 5 apples and you remove 3, how many are left?",
+        "respuestas": ["2", "7", "4", "3"],
+        "correcto": "2"
+    },
+    {
+        "pregunta": "Count by twos: 2, 4, 6, ...?",
+        "respuestas": ["10", "8", "7", "9"],
+        "correcto": "8"
+    },
+    {
+        "pregunta": "Which number is missing? 10, 11, __, 13, 14",
+        "respuestas": ["15", "9", "12", "13"],
+        "correcto": "12"
+    },
+    {
+        "pregunta": "Which shape has 3 sides?",
+        "respuestas": ["Rectangle", "Triangle", "Circle", "Square"],
+        "correcto": "Triangle"
+    },
+    {
+        "pregunta": "What shape is a soccer ball?",
+        "respuestas": ["Circle", "Triangle", "Square", "Rectangle"],
+        "correcto": "Circle"
+    },
+    {
+        "pregunta": "If a triangle has 3 sides, how many sides does a rectangle have?",
+        "respuestas": ["5", "2", "6", "4"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "Which shape has the most sides?",
+        "respuestas": ["Pentagon", "Heptagon", "Hexagon", "Polygon"],
+        "correcto": "Heptagon"
+    },
+    {
+        "pregunta": "Complete the sequence:",
+        "secuencia": ["assets/imagenes/Mate-Reto/circulo_azul.png", "assets/imagenes/Mate-Reto/circulo_verde.png", "assets/imagenes/Mate-Reto/circulo_azul.png", "___"],
+        "respuestas": ["assets/imagenes/Mate-Reto/circulo_laberinto.png", "assets/imagenes/Mate-Reto/circulo_azul.png", "assets/imagenes/Mate-Reto/circulo_verde.png", "assets/imagenes/Mate-Reto/circulo_amarillo.png"],
+        "correcto": "assets/imagenes/Mate-Reto/circulo_verde.png"
+    },
+    {
+        "pregunta": "What number is missing? 1, 3, 5, __, 9",
+        "respuestas": ["6", "7", "10", "4"],
+        "correcto": "7"
+    },
+    {
+        "pregunta": "Count by tens: 10, 20, 30, ...",
+        "respuestas": ["40", "60", "80", "50"],
+        "correcto": "40"
+    },
+    {
+        "pregunta": "Complete the sequence:",
+        "secuencia": ["assets/imagenes/Mate-Reto/apunta_derecha.png", "assets/imagenes/Mate-Reto/apunta_abajo.png", "assets/imagenes/Mate-Reto/apunta_izquierda.png", "assets/imagenes/Mate-Reto/apunta_arriba.png", "assets/imagenes/Mate-Reto/apunta_derecha.png", "___"],
+        "respuestas": ["assets/imagenes/Mate-Reto/apunta_izquierda.png", "assets/imagenes/Mate-Reto/apunta_arriba.png", "assets/imagenes/Mate-Reto/apunta_abajo.png", "assets/imagenes/Mate-Reto/apunta_derecha.png"],
+        "correcto": "assets/imagenes/Mate-Reto/apunta_abajo.png"
+    },
+    {
+        "pregunta": "The pattern goes like this:",
+        "secuencia": ["assets/imagenes/Mate-Reto/animal_leon.png", "assets/imagenes/Mate-Reto/animal_mono.png", "assets/imagenes/Mate-Reto/animal_pez.png", "assets/imagenes/Mate-Reto/animal_pinguino.png", "assets/imagenes/Mate-Reto/animal_leon.png", "What comes next?"],
+        "respuestas": ["assets/imagenes/Mate-Reto/animal_pez.png", "assets/imagenes/Mate-Reto/animal_leon.png", "assets/imagenes/Mate-Reto/animal_pinguino.png", "assets/imagenes/Mate-Reto/animal_mono.png"],
+        "correcto": "assets/imagenes/Mate-Reto/animal_mono.png"
+    },
+    {
+        "pregunta": "What is the order? A, B, C, D, E, ...",
+        "respuestas": ["L", "H", "F", "I"],
+        "correcto": "F"
+    },
+    {
+        "pregunta": "If you have 6 candies and you eat 2, how many are left?",
+        "respuestas": ["4", "6", "2", "5"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "Pablo has 5 coins and Sofía has 3. Who has more coins?",
+        "respuestas": ["None", "Both have the same", "Sofía", "Pablo"],
+        "correcto": "Pablo"
+    },
+    {
+        "pregunta": "If today is Wednesday, what day is tomorrow?",
+        "respuestas": ["Saturday", "Thursday", "Friday", "Monday"],
+        "correcto": "Thursday"
+    },
+    {
+        "pregunta": "If a cat has four legs, how many legs do 2 cats have?",
+        "respuestas": ["6", "2", "8", "12"],
+        "correcto": "8"
+    },
+    {
+        "pregunta": "What is 15-10?",
+        "respuestas": ["12", "7", "3", "5"],
+        "correcto": "5"
+    }
+]

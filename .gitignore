@@ -1,0 +1,43 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de base de datos SQLite temporales
+*.db-shm
+*.db-wal
+
+# Archivos de configuración local
+.env.local
+config_local.json
+config_api.json
+
+# Datos generados por el usuario
+reportes/
+*.csv
+*.pdf
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+
+# Node modules
+node_modules/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

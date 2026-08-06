@@ -1,0 +1,105 @@
+[
+    {
+        "pregunta": "Combien font 2+2 ?",
+        "respuestas": ["1", "8", "4", "5"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "Quel nombre vient après 10 ?",
+        "respuestas": ["15", "12", "9", "11"],
+        "correcto": "11"
+    },
+    {
+        "pregunta": "Si tu as 5 pommes et que tu en enlèves 3, combien en reste-t-il ?",
+        "respuestas": ["2", "7", "4", "3"],
+        "correcto": "2"
+    },
+    {
+        "pregunta": "Compte de deux en deux : 2, 4, 6, ... ?",
+        "respuestas": ["10", "8", "7", "9"],
+        "correcto": "8"
+    },
+    {
+        "pregunta": "Quel nombre manque-t-il ? 10, 11, __, 13, 14",
+        "respuestas": ["15", "9", "12", "13"],
+        "correcto": "12"
+    },
+    {
+        "pregunta": "Quelle forme a 3 côtés ?",
+        "respuestas": ["Rectangle", "Triangle", "Cercle", "Carré"],
+        "correcto": "Triangle"
+    },
+    {
+        "pregunta": "À quoi ressemble un ballon de football ?",
+        "respuestas": ["Cercle", "Triangle", "Carré", "Rectangle"],
+        "correcto": "Cercle"
+    },
+    {
+        "pregunta": "Si un triangle a 3 côtés, combien de côtés a un rectangle ?",
+        "respuestas": ["5", "2", "6", "4"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "Quelle forme a le plus de côtés ?",
+        "respuestas": ["Pentagone", "Heptagone", "Hexagone", "Polygone"],
+        "correcto": "Heptagone"
+    },
+    {
+        "pregunta": "Complète la séquence :",
+        "secuencia": ["assets/imagenes/Mate-Reto/circulo_azul.png", "assets/imagenes/Mate-Reto/circulo_verde.png", "assets/imagenes/Mate-Reto/circulo_azul.png", "___"],
+        "respuestas": ["assets/imagenes/Mate-Reto/circulo_laberinto.png", "assets/imagenes/Mate-Reto/circulo_azul.png", "assets/imagenes/Mate-Reto/circulo_verde.png", "assets/imagenes/Mate-Reto/circulo_amarillo.png"],
+        "correcto": "assets/imagenes/Mate-Reto/circulo_verde.png"
+    },
+    {
+        "pregunta": "Quel nombre manque-t-il ? 1, 3, 5, __, 9",
+        "respuestas": ["6", "7", "10", "4"],
+        "correcto": "7"
+    },
+    {
+        "pregunta": "Compte par dizaines : 10, 20, 30, ...",
+        "respuestas": ["40", "60", "80", "50"],
+        "correcto": "40"
+    },
+    {
+        "pregunta": "Complète la séquence :",
+        "secuencia": ["assets/imagenes/Mate-Reto/apunta_derecha.png", "assets/imagenes/Mate-Reto/apunta_abajo.png", "assets/imagenes/Mate-Reto/apunta_izquierda.png", "assets/imagenes/Mate-Reto/apunta_arriba.png", "assets/imagenes/Mate-Reto/apunta_derecha.png", "___"],
+        "respuestas": ["assets/imagenes/Mate-Reto/apunta_izquierda.png", "assets/imagenes/Mate-Reto/apunta_arriba.png", "assets/imagenes/Mate-Reto/apunta_abajo.png", "assets/imagenes/Mate-Reto/apunta_derecha.png"],
+        "correcto": "assets/imagenes/Mate-Reto/apunta_abajo.png"
+    },
+    {
+        "pregunta": "Le motif est le suivant :",
+        "secuencia": ["assets/imagenes/Mate-Reto/animal_leon.png", "assets/imagenes/Mate-Reto/animal_mono.png", "assets/imagenes/Mate-Reto/animal_pez.png", "assets/imagenes/Mate-Reto/animal_pinguino.png", "assets/imagenes/Mate-Reto/animal_leon.png", "Que vient-il ensuite ?"],
+        "respuestas": ["assets/imagenes/Mate-Reto/animal_pez.png", "assets/imagenes/Mate-Reto/animal_leon.png", "assets/imagenes/Mate-Reto/animal_pinguino.png", "assets/imagenes/Mate-Reto/animal_mono.png"],
+        "correcto": "assets/imagenes/Mate-Reto/animal_mono.png"
+    },
+    {
+        "pregunta": "Quel est l'ordre ? A, B, C, D, E, ...",
+        "respuestas": ["L", "H", "F", "I"],
+        "correcto": "F"
+    },
+    {
+        "pregunta": "Si tu as 6 bonbons et que tu en manges 2, combien en reste-t-il ?",
+        "respuestas": ["4", "6", "2", "5"],
+        "correcto": "4"
+    },
+    {
+        "pregunta": "Pablo a 5 pièces et Sofía en a 3. Qui a le plus de pièces ?",
+        "respuestas": ["Personne", "Ils ont autant", "Sofía", "Pablo"],
+        "correcto": "Pablo"
+    },
+    {
+        "pregunta": "Si aujourd'hui c'est mercredi, quel jour sera demain ?",
+        "respuestas": ["Samedi", "Jeudi", "Vendredi", "Lundi"],
+        "correcto": "Jeudi"
+    },
+    {
+        "pregunta": "Si un chat a quatre pattes, combien de pattes ont 2 chats ?",
+        "respuestas": ["6", "2", "8", "12"],
+        "correcto": "8"
+    },
+    {
+        "pregunta": "Combien font 15-10 ?",
+        "respuestas": ["12", "7", "3", "5"],
+        "correcto": "5"
+    }
+]
